@@ -8,7 +8,7 @@
 #ifndef TapRequestApi_h
 #define TapRequestApi_h
 
-#define Base_url             @"https://quickreleaelending.com/tpa"
+#define Base_url             @"https://quickreleaselending.com/tpa"
 #define Base_html_url        @"https://quickreleaselending.com"
 #define Base_html1_url       @"https://www.quickreleaselending.com"
 #define Base_scheme_url      @"pp://pera.oo"
