@@ -1,0 +1,626 @@
+👉👉👉👉👉ZFJObsLib-Code Obfuscation Map List👈👈👈👈👈
+
+--------------------iOS Method Obfuscation Map List Start--------------------
+
+alertCityView  <====>  hashJacalAlert
+labelTapped  <====>  parameterizeAardwolfLibidinous
+disMissTapTabBar  <====>  libertymanTopologicalTab
+presentLogin  <====>  qandaharPrimaryLogin
+hideTabBar  <====>  virtualObjLongestHide
+zhendong  <====>  gabbartBetZhendong
+satinTapStranger  <====>  baathistYabbiStranger
+upTapWithBeats  <====>  wacoImplementWith
+pushType  <====>  oaklingPlaceholderPush
+pushWebVc  <====>  nabobshipImmutableWeb
+checkStr  <====>  windowsPachalicStr
+suddenTapStrike  <====>  cabalisticNamedSudden
+pushTapVcWithOrderID  <====>  vaccinalQdaPush
+pushAbc  <====>  independentFatherlessPush
+canMakeRequest  <====>  sabaApproximateRequest
+beginLocation  <====>  vacateViableLocation
+ybTabBarIconButtonClick  <====>  searchingSignalButton
+ybTabBar  <====>  sealedAaronicTab
+handleNavigationTransition  <====>  waddieNabeshimaHandle
+hbd_setNeedsUpdateNavigationBar  <====>  hashFragmentationUpdate
+saveLoginWarranted  <====>  checkGabelleWarranted
+judgeTapiphoneType  <====>  xmlRecordTapiphone
+judgeTapiphonechicun  <====>  fabianLiteralTapiphonechicun
+deviceInfo  <====>  sabaFractalInfo
+grope  <====>  foreignDacianGrope
+ascendency  <====>  recordsetUbangiAscendency
+detained  <====>  moduleBaathistDetained
+verdant  <====>  uniqueGabberVerdant
+pigeon  <====>  caballoPacemakerPigeon
+sacrificed  <====>  iadlCascadingSacrificed
+wrestlings  <====>  aapamoorMacaberWrestlings
+despots  <====>  multiuserTupleDespots
+aspirants  <====>  macacoLabeAspirants
+greatness  <====>  rabbinateRollGreatness
+luring  <====>  libidinousLongestLuring
+lightens  <====>  transitiveHtmlLightens
+yearned  <====>  writeHardwareYearned
+enunciation  <====>  fabianKabyleEnunciation
+unbelieving  <====>  triangulationXanthippeUnbelieving
+overcometh  <====>  wackyPrimaryOvercometh
+twist  <====>  gabbyHostTwist
+uncurtained  <====>  dimeOakUncurtained
+oracles  <====>  alphabeticallyLinearOracles
+pitilessly  <====>  jabberwockyBinPitilessly
+forgets  <====>  ubeSarapeForgets
+unbecoming  <====>  jabotRefreshUnbecoming
+unrequired  <====>  linkMatrixUnrequired
+paraLoginStr  <====>  sabaeanRightPara
+determineTimeOfDay  <====>  iconAssignTime
+dictToJson  <====>  oakMacDict
+base64TapEncode  <====>  ubaLinearTap
+UpLoadTapDeviceInfo  <====>  baathistDispidLoad
+UpLoadTapLocation  <====>  oahuLabelledTap
+UpLoadMaiDianPID  <====>  librationBabaDian
+createTapLabel  <====>  ubiKnapsackCreate
+stringJosnToDict  <====>  cleanupPixelJosn
+postApi  <====>  alphabetizeKaffeeklatschApi
+jsonApiFile  <====>  keyQandaharApi
+
+--------------------iOS Method Obfuscation Map List End--------------------
+
+--------------------iOS Class Name Obfuscation Map List Start--------------------
+
+TapHighViewController  <====>  OakenHabacucViewController
+TapHomeViewController  <====>  MacadamizeOrdinaryViewController
+TapBnnerModel  <====>  QandaharRecursiveBnnerModel
+TapProductModel  <====>  WackyCaballeroProductModel
+TapHomeModel  <====>  DefinitionMabHomeModel
+TapOneHomeCell  <====>  OpenActivateHomeCell
+TapTViewCell  <====>  LoaderEagletViewCell
+TapTwoHomeView  <====>  ZagreusDelegationHomeView
+TapOneHomeAuthCell  <====>  NablusAssociativeAuthCell
+TapFakeView  <====>  FontLibraFakeView
+TapHomeView  <====>  RabbinateEdgeHomeView
+TapTwoViewCell  <====>  YachtHamiltonianViewCell
+TapFaceViewController  <====>  SexagesimalDiscreteViewController
+TapAuthListViewController  <====>  LabdanumBaalismViewController
+TapPhotoViewController  <====>  ActivateMabeViewController
+TapContractViewController  <====>  RowRefreshViewController
+TapWalletViewController  <====>  DimeReferentialViewController
+TapWorkViewController  <====>  CallbackRabbanistViewController
+TapPersonalViewController  <====>  LabellumSemaphoreViewController
+TapBankOrWalletViewController  <====>  GabbartAdlViewController
+TapBankViewController  <====>  LibertinismUnionViewController
+TapBTwistModel  <====>  EagernessRandomTwistModel
+TapEyelidsModel  <====>  HyperlinkItemEyelidsModel
+TapCTwistModel  <====>  ActualSolvingTwistModel
+TapImageInfoModel  <====>  PolygonXmlInfoModel
+TapVacancyModel  <====>  InheritanceAssignmentVacancyModel
+TapATwistModel  <====>  PrimaryQbeTwistModel
+TapAuthListView  <====>  XanthippePassListView
+TapPhotoView  <====>  ShapeTraversePhotoView
+TapCommonAuthView  <====>  XanthininVolatileAuthView
+TapCommonInfoView  <====>  MacOptimizerInfoView
+TapSelectCityView  <====>  LiberticideSideCityView
+ViewController  <====>  FabianistEqualViewController
+TapPopAuthView  <====>  ChildBackgroundAuthView
+TapPersonalAuthBtnCell  <====>  SexagenarianCheckBtnCell
+TapContractCell  <====>  FableJaboticabaContractCell
+TapAuthListCollectionViewCell  <====>  HaafRabbanistViewCell
+TapFaceIDView  <====>  XanthismPlacementFaceView
+TapSelectPhotoView  <====>  MessageAaronPhotoView
+TapContractInfoView  <====>  FabricIntrospectionInfoView
+TapAlertAuthInfoView  <====>  ZagrosItemInfoView
+TapOneViewCell  <====>  UarUbicationViewCell
+TapAuthInfoCell  <====>  EacmBaseInfoCell
+TapLoginViewController  <====>  TaberdarOrdinaryViewController
+TapLoginView  <====>  InlineTypeLoginView
+TapAboutViewController  <====>  YacareThrowViewController
+TapHelpViewController  <====>  XanthinActionViewController
+TapUserViewController  <====>  VaaljapieYachtyViewController
+TapOredrModel  <====>  AachenXanthippeOredrModel
+TapHelpModel  <====>  PoolingActiveHelpModel
+TapHelpViewCell  <====>  JacarandaArgumentViewCell
+TapUserClickView  <====>  KafLooseClickView
+TapHelpView  <====>  VacantAarnetHelpView
+TapCollectionViewCell  <====>  IaeaNabobismViewCell
+TapUserListView  <====>  DiscreteOrdinaryListView
+TapUserView  <====>  KabobMangledUserView
+TapMessageViewController  <====>  ForwardingSabangViewController
+TapOlListViewController  <====>  AtomicOahuViewController
+TapOrderViewController  <====>  KaffeeklatschTaberdarViewController
+TapOrderViewCell  <====>  QbasicAccountViewCell
+TapOrderListView  <====>  ZagazigIaaListView
+TapWebViewController  <====>  PachalicVaaljapieViewController
+TapBaseViewController  <====>  TabaretClauseViewController
+TapLaunchViewController  <====>  AddressWindowViewController
+TapTabBarController  <====>  TableArbitraryBarController
+TapNavigationController  <====>  BetAaronicNavigationController
+RateLimiter  <====>  TraceAccountRateLimiter
+TapLocation  <====>  DisassemblerLinkageTapLocation
+TapLocationModel  <====>  OakumCashawLocationModel
+YBTabBarButton  <====>  ImplicitMinkowskiBarButton
+YBTabBar  <====>  LibertinismDaccaTabBar
+HBDNavigationBar  <====>  SabaismVideoNavigationBar
+HBDNavigationController  <====>  BoxingRabbahNavigationController
+TapLoginFactory  <====>  WizardAapamoorLoginFactory
+TapDeviceInfo  <====>  LinkBabaDeviceInfo
+TapNetWorkInfoManager  <====>  InformationFabricableInfoManager
+TapFactory  <====>  DacoitOakletTapFactory
+TapRequest  <====>  MemoryClassificationTapRequest
+TapHudView  <====>  GabelleIaaHudView
+TapJsonHeader  <====>  IacuLabefactionJsonHeader
+TapNavView  <====>  YachtyAttributeNavView
+TapLogoutView  <====>  IacuFabledLogoutView
+TapNoDataView  <====>  XanthicZagrebDataView
+TapAlertAuthView  <====>  CabanaRightAuthView
+TapDelView  <====>  InvariantsVoronoiDelView
+
+--------------------iOS Class Name Obfuscation Map List End--------------------
+
+--------------------iOS Resource Name Obfuscation Map List Start--------------------
+
+-->image name map list start<--
+bg_personal  <====>  rabbinic_personal_bg
+Slice 36  <====>  OakImgSlice
+DefaultPage  <====>  IteratorPageDefault
+Emergency Contact_verified  <====>  Libidinous_contact_verified
+female  <====>  jobAddFemale
+Slice 21  <====>  MacadamTabbySlice
+Slice 18-1  <====>  Incremental_right_slice
+image_order_bg  <====>  image_order_bg
+image_order_failed  <====>  labdanum_order_image
+image_personal_privacy  <====>  kaddish_privacy_image
+fads122  <====>  hookIconFads
+fadsf1  <====>  ideTabboulehFadsf
+home13  <====>  yabbiRightHome
+home12  <====>  formalNameHome
+home9  <====>  fabliauLeftHome
+home10  <====>  kadunaPicHome
+home11  <====>  libertinismAddHome
+input_Login_cancel1  <====>  modem_login_cancel
+male  <====>  baaroqueRightMale
+Slice 18  <====>  OverloadedNameSlice
+Slice 19  <====>  CabaneAddSlice
+logout_image  <====>  wsdl_logout_image
+faceid_image1  <====>  dacian_faceid_image
+icon_tab_user  <====>  candidate_icon_tab
+icon_tab_orders  <====>  named_tab_orders
+icon_tab_message  <====>  pachalic_tab_icon
+icon_tab_home  <====>  jabez_tab_icon
+Slice 27  <====>  HttpNameSlice
+fdger124  <====>  clsBgFdger
+icon_personal_deactivate  <====>  list_icon_deactivate
+icon_nav_qa  <====>  dacquoise_nav_icon
+Card_verified  <====>  Yabby_verified_card
+asdfg3  <====>  labiaBgAsdfg
+image_order_settled  <====>  iaf_settled_order
+image_order_unpaid  <====>  linear_unpaid_order
+Slice 31  <====>  AareAddSlice
+Slice 30  <====>  FontAddSlice
+del_bg  <====>  del_bg
+banksss  <====>  evaluateIconBanksss
+Personal Information_verified  <====>  Jit_information_personal
+image_order_review  <====>  help_review_order
+bg4_order  <====>  equal_bg_order
+bpersonal  <====>  xanthippeAddBpersonal
+launch_image  <====>  edge_launch_image
+Slice 28  <====>  LabelledRightSlice
+Slice 29  <====>  LibraryAddSlice
+bg3_order  <====>  manifest_bg_order
+image_personal_loan  <====>  late_personal_loan
+pop_image01  <====>  searching_pop_image
+bg2_order  <====>  fatherhood_order_bg
+icon_login_selected  <====>  xanthism_selected_icon
+icon_nav_back  <====>  for_icon_back
+img_login  <====>  tabaret_img_login
+input_Login_ed  <====>  wildcard_input_login
+icon_login_unselected  <====>  access_icon_unselected
+icon_nav_fdasfads  <====>  a2a_fdasfads_icon
+loginfoot  <====>  sabaeanIconLoginfoot
+input_Login_cancel  <====>  call_cancel_input
+input_Login_e  <====>  vee_input_e
+logout_bg  <====>  logout_bg
+image_personal_bg 1  <====>  virtualObj_bg_image
+image_personal_bg  <====>  image_personal_bg
+Slice 35  <====>  BracketImgSlice
+image_personal_default  <====>  xsd_image_personal
+Slice 230  <====>  CabalistImgSlice
+idUPload_pop  <====>  video_pop_idupload
+faceid_but  <====>  rabaul_faceid_but
+id_card  <====>  bab_id_card
+faceid_bg  <====>  faceid_bg
+idtype_tost  <====>  qanon_idtype_tost
+img_login1  <====>  edge_img_login
+idupload_bg  <====>  idupload_bg
+idupload_pop_select  <====>  point_pop_select
+idtype_bg  <====>  idtype_bg
+idupload_pop_input1  <====>  qandahar_idupload_input
+idupload_tost  <====>  egalite_tost_idupload
+idAtype_bg  <====>  idAtype_bg
+idupload_but  <====>  iaa_idupload_but
+faceid_image2  <====>  baba_image_faceid
+Authentication_verified  <====>  Xslt_authentication_verified
+bg_personal21  <====>  high_personal_bg
+Slice  <====>  RadioIconSlice
+TIN  <====>  ScalableIN
+PRC  <====>  SideCP
+HEALTHCARD  <====>  NabeRH
+PAGIBIG  <====>  QcbBG
+VOTERID  <====>  UrlEI
+NATIONALID  <====>  HelpDO
+SSS  <====>  WordSS
+DRIVINGLICENSE  <====>  I2oVG
+PASSPORT  <====>  FabianAT
+POSTALID  <====>  InlineTP
+UMID  <====>  RabbetDU
+Slice 32  <====>  HaafImageSlice
+Slice 33  <====>  UatBgSlice
+pop_image0  <====>  nabi_pop_image
+icon_nav_qa1  <====>  haarlem_qa_nav
+bg1_order  <====>  rabbah_bg_order
+Slice 227  <====>  MultidimensionalIconSlice
+Work Details_verified  <====>  Uaw_verified_details
+Slice 25  <====>  BabIconSlice
+
+-->image name map list end<--
+-->the name map list of the image in imageset start<--
+rabbinic_personal_bg.imageset image count：2👇
+bg_personal@2x  <====>  rabaul_x_personal@
+bg_personal@3x  <====>  sibling_x_bg
+
+OakImgSlice.imageset image count：2👇
+Slice 36@3x  <====>  EaglestoneBackSlice@X
+Slice 36@2x  <====>  ZaguanYacareSlice@X
+
+IteratorPageDefault.imageset image count：2👇
+DefaultPage@2x  <====>  VacateDefaultPage@X
+DefaultPage@3x  <====>  CashawDefaultPage@X
+
+Libidinous_contact_verified.imageset image count：2👇
+Emergency Contact_verified@3x  <====>  Iaea_contact_x
+Emergency Contact_verified@2x  <====>  Alphabetize_verified@_emergency
+
+jobAddFemale.imageset image count：2👇
+female@2x  <====>  refactoringPicFemale@X
+female@3x  <====>  binBackFemale@X
+
+MacadamTabbySlice.imageset image count：2👇
+Slice 21@2x  <====>  ManifestNameSlice@X
+Slice 21@3x  <====>  AudioBgSlice@X
+
+Incremental_right_slice.imageset image count：2👇
+Slice 18-1@2x  <====>  Metadata_x_slice@
+Slice 18-1@3x  <====>  Url_x_slice@
+
+labdanum_order_image.imageset image count：2👇
+image_order_failed@3x  <====>  kaddish_image_failed@
+image_order_failed@2x  <====>  habanero_failed@_image
+
+kaddish_privacy_image.imageset image count：2👇
+image_personal_privacy@3x  <====>  libraire_x_image
+image_personal_privacy@2x  <====>  http_personal_image
+
+hookIconFads.imageset image count：2👇
+fads122@3x  <====>  itemImgFads@X
+fads122@2x  <====>  nabokovianLabeFads@X
+
+ideTabboulehFadsf.imageset image count：2👇
+fadsf1@3x  <====>  iconXanthicFadsf@X
+fadsf1@2x  <====>  haarlemIconFadsf@X
+
+yabbiRightHome.imageset image count：2👇
+Slice 13@3x  <====>  LaserPacesettingSlice@X
+Slice 13@2x  <====>  OakumAddSlice@X
+
+formalNameHome.imageset image count：2👇
+Slice 12@3x  <====>  UriBgSlice@X
+Slice 12@2x  <====>  CodeIconSlice@X
+
+fabliauLeftHome.imageset image count：2👇
+Slice 9@3x  <====>  DigestImageSlice@X
+Slice 9@2x  <====>  MultithreadedPicSlice@X
+
+kadunaPicHome.imageset image count：2👇
+Slice 10@2x  <====>  DelegateBgSlice@X
+Slice 10@3x  <====>  AacsAddSlice@X
+
+libertinismAddHome.imageset image count：2👇
+Slice 11@2x  <====>  RabbinAddSlice@X
+Slice 11@3x  <====>  HyperlinkImgSlice@X
+
+modem_login_cancel.imageset image count：2👇
+input_Login_cancel1@2x  <====>  rabbanist_cancel@_input
+input_Login_cancel1@3x  <====>  ubangi_cancel@_login
+
+baaroqueRightMale.imageset image count：2👇
+male@2x  <====>  habacucDerivedMale@X
+male@3x  <====>  sarapeBackMale@X
+
+OverloadedNameSlice.imageset image count：2👇
+Slice 18@3x  <====>  ForeignPicSlice@X
+Slice 18@2x  <====>  HeapBgSlice@X
+
+CabaneAddSlice.imageset image count：2👇
+Slice 19@3x  <====>  ServerImageSlice@X
+Slice 19@2x  <====>  LabiaBackSlice@X
+
+wsdl_logout_image.imageset image count：2👇
+logout_image@2x  <====>  side_image@_x
+logout_image@3x  <====>  fabricable_image@_logout
+
+dacian_faceid_image.imageset image count：2👇
+faceid_image1@3x  <====>  font_faceid_x
+faceid_image1@2x  <====>  deduction_faceid_x
+
+candidate_icon_tab.imageset image count：2👇
+icon_tab_user@2x  <====>  pacesetter_x_tab
+icon_tab_user@3x  <====>  placement_x_user@
+
+named_tab_orders.imageset image count：2👇
+icon_tab_orders@2x  <====>  iab_orders@_x
+icon_tab_orders@3x  <====>  traveling_orders@_icon
+
+pachalic_tab_icon.imageset image count：2👇
+icon_tab_message@2x  <====>  gabardine_icon_tab
+icon_tab_message@3x  <====>  feedback_icon_tab
+
+jabez_tab_icon.imageset image count：2👇
+icon_tab_home@3x  <====>  dacoit_icon_x
+icon_tab_home@2x  <====>  web_icon_x
+
+HttpNameSlice.imageset image count：2👇
+Slice 27@2x  <====>  RecordIconSlice@X
+Slice 27@3x  <====>  WhereSetterSlice@X
+
+clsBgFdger.imageset image count：1👇
+fdger124  <====>  liberticidalBgFdger
+
+list_icon_deactivate.imageset image count：2👇
+icon_personal_deactivate@2x  <====>  eagre_deactivate@_icon
+icon_personal_deactivate@3x  <====>  nabokovian_personal_deactivate@
+
+dacquoise_nav_icon.imageset image count：2👇
+icon_nav_qa@3x  <====>  tabbinet_nav_x
+icon_nav_qa@2x  <====>  invoke_x_qa@
+
+Yabby_verified_card.imageset image count：2👇
+E-wallet ／ Bank Card_verified@3x  <====>  Uri_x_e
+E-wallet ／ Bank Card_verified@2x  <====>  Caballo_card_verified@
+
+labiaBgAsdfg.imageset image count：2👇
+asdfg3@2x  <====>  combinatorialPicAsdfg@X
+asdfg3@3x  <====>  rawRightAsdfg@X
+
+iaf_settled_order.imageset image count：2👇
+image_order_settled@3x  <====>  primary_settled@_order
+image_order_settled@2x  <====>  libertinism_settled@_x
+
+linear_unpaid_order.imageset image count：2👇
+image_order_unpaid@2x  <====>  implement_x_order
+image_order_unpaid@3x  <====>  pacemaking_image_unpaid@
+
+AareAddSlice.imageset image count：2👇
+Slice 31@3x  <====>  AccostImageSlice@X
+Slice 31@2x  <====>  FatherhoodNameSlice@X
+
+FontAddSlice.imageset image count：2👇
+Slice 30@3x  <====>  LabialLeftSlice@X
+Slice 30@2x  <====>  EnumAddSlice@X
+
+evaluateIconBanksss.imageset image count：1👇
+banksss  <====>  windowImgBanksss
+
+AppIcon.appiconset image count：1👇
+logo  <====>  gabbroNameLogo
+
+Jit_information_personal.imageset image count：2👇
+Personal Information_verified@2x  <====>  Iaea_personal_information
+Personal Information_verified@3x  <====>  Kabob_personal_verified@
+
+help_review_order.imageset image count：2👇
+image_order_review@2x  <====>  sexagesimal_order_x
+image_order_review@3x  <====>  traveling_image_x
+
+equal_bg_order.imageset image count：2👇
+bg4_order@3x  <====>  user_x_bg
+bg4_order@2x  <====>  hook_bg_x
+
+xanthippeAddBpersonal.imageset image count：2👇
+bpersonal@3x  <====>  iafImgBpersonal@X
+bpersonal@2x  <====>  oaklandAddBpersonal@X
+
+edge_launch_image.imageset image count：2👇
+launch_image@2x  <====>  odbc_launch_image@
+launch_image@3x  <====>  ubication_x_launch
+
+LabelledRightSlice.imageset image count：2👇
+Slice 28@3x  <====>  UbicationImageSlice@X
+Slice 28@2x  <====>  MacadamizeNameSlice@X
+
+LibraryAddSlice.imageset image count：2👇
+Slice 29@3x  <====>  LibraireImageSlice@X
+Slice 29@2x  <====>  EscapeNameSlice@X
+
+manifest_bg_order.imageset image count：2👇
+bg3_order@3x  <====>  jacaranda_order@_bg
+bg3_order@2x  <====>  aare_bg_order@
+
+late_personal_loan.imageset image count：2👇
+image_personal_loan@2x  <====>  labia_loan@_x
+image_personal_loan@3x  <====>  nabobess_loan@_x
+
+searching_pop_image.imageset image count：2👇
+pop_image01@3x  <====>  laser_pop_x
+pop_image01@2x  <====>  yachtswoman_x_image@
+
+fatherhood_order_bg.imageset image count：2👇
+bg2_order@2x  <====>  librarian_bg_x
+bg2_order@3x  <====>  middle_bg_order@
+
+xanthism_selected_icon.imageset image count：2👇
+icon_login_selected@2x  <====>  transactional_icon_login
+icon_login_selected@3x  <====>  fabled_login_icon
+
+for_icon_back.imageset image count：2👇
+icon_nav_back@3x  <====>  list_nav_icon
+icon_nav_back@2x  <====>  nabe_icon_nav
+
+tabaret_img_login.imageset image count：2👇
+img_login@2x  <====>  volatile_img_x
+img_login@3x  <====>  vee_img_x
+
+wildcard_input_login.imageset image count：2👇
+input_Login_edit_unentered@3x  <====>  bin_unentered@_login
+input_Login_edit_unentered@2x  <====>  shape_input_unentered@
+
+access_icon_unselected.imageset image count：2👇
+icon_login_unselected@2x  <====>  kabuki_icon_login
+icon_login_unselected@3x  <====>  libran_login_unselected@
+
+a2a_fdasfads_icon.imageset image count：1👇
+icon_nav_fdasfads@3x  <====>  fabled_fdasfads@_icon
+
+sabaeanIconLoginfoot.imageset image count：2👇
+Slice 14@3x  <====>  RabbinatePicSlice@X
+Slice 14@2x  <====>  BugBackSlice@X
+
+call_cancel_input.imageset image count：2👇
+input_Login_cancel@3x  <====>  identifier_login_input
+input_Login_cancel@2x  <====>  deduction_cancel@_login
+
+vee_input_e.imageset image count：2👇
+input_Login_edit_unentered@3x  <====>  mac_input_login
+input_Login_edit_unentered@2x  <====>  baba_edit_x
+
+virtualObj_bg_image.imageset image count：2👇
+image_personal_bg 1@3x  <====>  ubication_bg@_x
+image_personal_bg 1@2x  <====>  dacker_x_bg@
+
+BracketImgSlice.imageset image count：2👇
+Slice 35@2x  <====>  BrowserLeftSlice@X
+Slice 35@3x  <====>  RabaulImgSlice@X
+
+xsd_image_personal.imageset image count：2👇
+image_personal_default@2x  <====>  implementation_personal_default@
+image_personal_default@3x  <====>  definition_personal_image
+
+CabalistImgSlice.imageset image count：2👇
+Slice 230@3x  <====>  RabbetWsdlSlice@X
+Slice 230@2x  <====>  SessionNameSlice@X
+
+video_pop_idupload.imageset image count：2👇
+idUPload_pop@2x  <====>  linker_x_pop@
+idUPload_pop@3x  <====>  uri_idupload_x
+
+rabaul_faceid_but.imageset image count：2👇
+faceid_but@3x  <====>  com_x_faceid
+faceid_but@2x  <====>  kabul_but@_faceid
+
+bab_id_card.imageset image count：2👇
+id card@3x  <====>  babaUnderflowIdcard@X
+id card@2x  <====>  caballerNameIdcard@X
+
+qanon_idtype_tost.imageset image count：2👇
+idtype_tost@2x  <====>  generating_x_tost@
+idtype_tost@3x  <====>  word_tost@_idtype
+
+edge_img_login.imageset image count：2👇
+img_login1@3x  <====>  ubangi_img_login@
+img_login1@2x  <====>  macadamize_login@_x
+
+point_pop_select.imageset image count：2👇
+idupload_pop_select@3x  <====>  fabricable_pop_x
+idupload_pop_select@2x  <====>  pointer_x_pop
+
+qandahar_idupload_input.imageset image count：2👇
+idupload_pop_input1@2x  <====>  cashaw_x_pop
+idupload_pop_input1@3x  <====>  libration_pop_idupload
+
+egalite_tost_idupload.imageset image count：2👇
+idupload_tost@3x  <====>  literal_tost@_idupload
+idupload_tost@2x  <====>  web_idupload_x
+
+iaa_idupload_but.imageset image count：2👇
+idupload_but@2x  <====>  nablus_but@_idupload
+idupload_but@3x  <====>  gabe_idupload_x
+
+baba_image_faceid.imageset image count：2👇
+faceid_image2@2x  <====>  rabbin_image@_faceid
+faceid_image2@3x  <====>  access_x_image@
+
+Xslt_authentication_verified.imageset image count：2👇
+ID Authentication_verified@2x  <====>  Unchecked_verified@_authentication
+ID Authentication_verified@3x  <====>  Vaaljapie_x_id
+
+high_personal_bg.imageset image count：2👇
+bg_personal21@2x  <====>  uar_x_personal@
+bg_personal21@3x  <====>  sdk_x_personal@
+
+RadioIconSlice.imageset image count：2👇
+Slice@2x  <====>  UbiImgSlice@X
+Slice@3x  <====>  TabardBgSlice@X
+
+ScalableIN.imageset image count：1👇
+TIN  <====>  ClauseNI
+
+SideCP.imageset image count：1👇
+PRC  <====>  MiddleRP
+
+NabeRH.imageset image count：1👇
+HEALTHCARD  <====>  DomHA
+
+QcbBG.imageset image count：1👇
+PAGIBIG  <====>  LooseIP
+
+UrlEI.imageset image count：1👇
+VOTERID  <====>  ComputationalTE
+
+HelpDO.imageset image count：1👇
+NATIONALID  <====>  BabacooteAA
+
+WordSS.imageset image count：1👇
+SSS  <====>  LibrarySS
+
+I2oVG.imageset image count：1👇
+DRIVINGLICENSE  <====>  ThrowSL
+
+FabianAT.imageset image count：1👇
+PASSPORT  <====>  FableTR
+
+InlineTP.imageset image count：1👇
+POSTALID  <====>  PlatformLP
+
+RabbetDU.imageset image count：1👇
+UMID  <====>  PinvokeMI
+
+HaafImageSlice.imageset image count：2👇
+Slice 32@2x  <====>  ApplicationNameSlice@X
+Slice 32@3x  <====>  PartialLeftSlice@X
+
+UatBgSlice.imageset image count：2👇
+Slice 33@2x  <====>  PlanarityNameSlice@X
+Slice 33@3x  <====>  HabatsuRightSlice@X
+
+nabi_pop_image.imageset image count：2👇
+pop_image0@2x  <====>  attribute_pop_image@
+pop_image0@3x  <====>  rabbin_x_image@
+
+haarlem_qa_nav.imageset image count：2👇
+icon_nav_qa1@2x  <====>  yachty_x_icon
+icon_nav_qa1@3x  <====>  call_icon_qa@
+
+rabbah_bg_order.imageset image count：2👇
+bg1_order@2x  <====>  immutability_order@_x
+bg1_order@3x  <====>  left_bg_x
+
+MultidimensionalIconSlice.imageset image count：2👇
+Slice 227@2x  <====>  HabdabsNameSlice@X
+Slice 227@3x  <====>  LabellumAddSlice@X
+
+Uaw_verified_details.imageset image count：2👇
+Work Details_verified@3x  <====>  Row_x_verified@
+Work Details_verified@2x  <====>  Fabian_x_work
+
+BabIconSlice.imageset image count：2👇
+Slice 25@3x  <====>  I2oImgSlice@X
+Slice 25@2x  <====>  MabeIconSlice@X
+
+-->the name map list of the image in imageset end<--
+--------------------iOS Resource Name Obfuscation Map List End--------------------
+
